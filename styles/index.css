@@ -1,11 +1,36 @@
 .website-title {
-    color: blueviolet;
-    background-color: aquamarine;
+    color: whitesmoke;
+    background-color: grey;
     text-align: center;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    margin-left: 550px;
+    margin-right: 550px;
+    padding: 15px;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 .one {
     font-weight: 800;
     font-size: 22px;
+    font-family: 'Courier New', Courier, monospace;
     color:navy;
+    display:block;
+}
+
+.linked-texts {
+    background-color: aliceblue;
+    text-align: center;
+    margin-left: 480px;
+    margin-right: 480px;
+}
+
+#recipe1 {
+    margin:20px;
+    padding: 20px; 
+}
+
+#recipe2 {
+    margin: 20px;
+    padding: 20px;
 }
